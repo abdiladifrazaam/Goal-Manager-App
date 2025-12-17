@@ -1,8 +1,8 @@
 {
   "expo": {
     "entryPoint": "./App.js",
-    "name": "goal manager",
-    "slug": "Goal Manager App App",
+    "name": "goal setter",
+    "slug": "Goal Manager Appger App",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
